@@ -23,4 +23,9 @@ it will be set at 80 for deafult.
 2. type in a proxy ip, find one by looking up proxie ip's.
 3. enjoy.
 
+TKIDEA:
+this is an idea i came up with,
+a bunch of "malicous scripts" inside a singular gui.
+This however just shows a button.
+
 *python version used whilst making is 3.7
