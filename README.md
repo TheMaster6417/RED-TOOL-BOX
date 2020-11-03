@@ -1,31 +1,8 @@
-# RED-ddos-
-INSTALLITON:
+#RED tool box
 
-windows:
-1. Select install as zip
-2. use a tool like winrar to unzip
-3.run ddos.py with python*
+Red tool box is a project i made, hopefully in the future,
+it will have more than two scripts.
 
-linux:
-1. run git clone "insert url"
-2. locate using terminal 
-3. run ddos.py
-
-USEAGE:
-first of all, this is a weak python made dos tool
-you wont be booting people off 24/7. to do that
-you would need a botnet. just make one lmao
-
-secondly, edit ddos.py to change the port type, 
-it will be set at 80 for deafult.
-
-1. type in the ip of your target
-2. type in a proxy ip, find one by looking up proxie ip's.
-3. enjoy.
-
-TKIDEA:
-this is an idea i came up with,
-a bunch of "malicous scripts" inside a singular gui.
-This however just shows a button.
-
-*python version used whilst making is 3.7
+*what is red tool box?*
+Red tool box is a project in which i will try to make as many "ethical hacking" scripts.
+Most will be weak but some can be used in bot nets.
