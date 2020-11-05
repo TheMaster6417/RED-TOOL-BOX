@@ -1,10 +1,9 @@
-#RED tool box
+RED TOOL BoX FEATURES:
 
-Red tool box is a project i made, hopefully in the future,
-it will have more than two scripts.
+ip ddos attack:
 
-*what is red tool box?**
+A python based ddos tool, not strong enough on its own.
 
+RED PING CLIENT:
 
-Red tool box is a project in which i will try to make as many "ethical hacking" scripts.
-Most will be weak but some can be used in bot nets.
+one of my most favioute things to code, this sends small packets to a selected ip. this messaures time and/or if the ip is down. In this case it will output to a file.
