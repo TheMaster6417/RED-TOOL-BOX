@@ -10,3 +10,8 @@ one of my most favioute things to code, this sends small packets to a selected i
 
 AllFIles:
 This will scan for every file in a drive and output to a file
+
+
+SPAM BOT:
+
+Your standard spam bot.
