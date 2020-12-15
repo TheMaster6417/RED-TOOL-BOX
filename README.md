@@ -15,3 +15,7 @@ This will scan for every file in a drive and output to a file
 SPAM BOT:
 
 Your standard spam bot.
+
+PORT SCANNER:
+
+scans ports 1-1000 using cpu and threading. Thanks to stemboy for dat threading tips innit.
