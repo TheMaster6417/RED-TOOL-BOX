@@ -21,7 +21,7 @@ def diod():
     if dio == "1":
       print("Enter ip")
       jojo = input()
-    for port in range(1, 1001):
+    for port in range(1, 1000):
         try:
             s = socket.socket()
             res = s.connect((jojo, port))
@@ -29,6 +29,7 @@ def diod():
             s.close()
         except:
             print("Port closed at:", port)
-threading.threading.Thread(target=diod).start
+x = threading.Thread(target=diod(), args=(1,))
+x.start()
 print("Scan finished")
 #time.Time() - start time
